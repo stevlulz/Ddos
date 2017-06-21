@@ -6,8 +6,8 @@
 #                  SEYYIDAHMED LAHMER          |        /
 #+------------------------------------------------+____/
 tested on : linux & windows
- https://www.facebook.com/rocker.pop.rap
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+https://www.facebook.com/Stev.Lulz.secccc
+ #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
  
 import time
 import socket
